@@ -2,9 +2,9 @@ dist: trusty
 
 addons:
   sonarcloud:
-    organization: "sanogotech"
+    organization: "amaniabouda"
     token:
-      secure: "6fb23963c7d0a6c8f22df225d36a45a3f9c6d6ae" # encrypted value of your token
+      secure: "09fcf2b94a0aa162f14e41e595df1a97bbcffe4a" # encrypted value of your token
 
 install: composer install --prefer-dist
 
